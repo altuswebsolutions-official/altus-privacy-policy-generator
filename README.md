@@ -115,6 +115,7 @@ Whenever something material changes — new analytics, a new email tool, a new p
 - Policy generation confirmed fully client-side in this version (no AJAX endpoint remains).
 - Version taken from the original plugin header (1.0.0); no version number invented for this release.
 - GPL licence added to the plugin header and a WordPress `readme.txt` included alongside this README.
+- Plugin Check (fresh Jurassic Ninja test site, FULL check, Plugin Check v2.1.0): activation clean, 0 warnings, 1 error reported as a Stable-tag mismatch — the release zip's `readme.txt` verifiably declares "Stable tag: 1.0.0", matching the plugin header version 1.0.0, so this is recorded here as a Plugin Check parsing discrepancy rather than a real version mismatch. Smoke test passed (fictional Test Bakery Ltd, 12-section preview correct, Copy / Download .txt / Download .html all present, no email form).
 
 ## Data handling — read this before installing
 
