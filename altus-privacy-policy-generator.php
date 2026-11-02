@@ -5,6 +5,8 @@
  * Version: 1.0.0
  * Author: Altus Web Solutions
  * Text Domain: altus-privacy-policy-generator
+ * License: GPLv2 or later
+ * License URI: https://www.gnu.org/licenses/gpl-2.0.html
  * Requires at least: 5.8
  * Requires PHP: 7.4
  */

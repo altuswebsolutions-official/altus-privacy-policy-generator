@@ -114,6 +114,7 @@ Whenever something material changes — new analytics, a new email tool, a new p
 - Email gate, lead storage and email sending removed: no lead table, no visitor email, no owner notification, no server file write.
 - Policy generation confirmed fully client-side in this version (no AJAX endpoint remains).
 - Version taken from the original plugin header (1.0.0); no version number invented for this release.
+- GPL licence added to the plugin header and a WordPress `readme.txt` included alongside this README.
 
 ## Data handling — read this before installing
 
